@@ -1,0 +1,35 @@
+name: flutter_japanese_course
+description: A new Flutter application for udemy course japanese
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - images/
+
+
+  fonts:
+     - family: MeriendaOne
+       fonts:
+         - asset: fonts/MeriendaOne-Regular.ttf
+
+
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/custom-fonts/#from-packages
