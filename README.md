@@ -1,6 +1,6 @@
-# flutter_japanese_course
+# DiceRoll
 
-A new Flutter application for udemy course japanese
+A new Flutter application for udemy course
 
 ## Getting Started
 
